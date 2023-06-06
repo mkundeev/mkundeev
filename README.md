@@ -1,6 +1,6 @@
 Hi there 👋 I'm Maksym
 
-* 🌱 I’m currently learning ![NextJs]([https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white])
+* 🌱 I’m currently learning ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 * 📫 How to reach me: <strong>mkundeev@gmail.com</strong>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkundeev&theme=github)
